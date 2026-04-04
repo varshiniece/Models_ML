@@ -19,7 +19,7 @@ from xgboost import XGBClassifier
 # =========================================================
 
 
-RDS_CONN = "postgresql+psycopg2://redash_user:#X5vf6o5Ef4lNeh&DUw#!OrV@sf-prod-replica.c5wxkh2ztikt.ap-south-1.rds.amazonaws.com:5432/postgres"
+RDS_CONN = $RDS_CONN DB_DETAILS
 engine = create_engine(RDS_CONN)
 
 QUERY = """
