@@ -11,7 +11,9 @@ Used when historical labeled data is available.
 ✔ Support Vector Machines (SVM)
 
 🔹 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 (Mostly for Prediction) 
-✔ Linear Regression Polynomial Regression - Relationship is curved , Ridge regression  
+✔ Linear Regression 
+Polynomial Regression - Relationship is curved ,
+Ridge regression  - use when there are too many feautures and this causes ovrfitting on linear Regression, Introduce a penalty through ridge 
 ✔ Multiple Regression
 ✔ Lasso Regression
 
