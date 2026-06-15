@@ -11,7 +11,7 @@ Used when historical labeled data is available.
 ✔ Support Vector Machines (SVM)
 
 🔹 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧 (Mostly for Prediction) 
-✔ Linear Regression Polynomial Regression , Ridge regression  
+✔ Linear Regression Polynomial Regression - Relationship is curved , Ridge regression  
 ✔ Multiple Regression
 ✔ Lasso Regression
 
