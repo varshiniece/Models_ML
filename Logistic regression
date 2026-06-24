@@ -1,1 +1,5 @@
 
+The max_iter parameter in logistic regression (and other iterative algorithms) sets the maximum number of iterations the algorithm will perform during the optimization process.
+It controls how long the algorithm should keep iterating to find the best solution or converge to an optimal set of coefficients. 
+The choice of max_iter can influence the model training process's convergence behavior and computational efficiency. 
+In practice, it’s often helpful to start with a default value and adjust it based on the specific dataset and the observed convergence behavior.
