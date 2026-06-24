@@ -1,3 +1,5 @@
+Logistic regression is used for classification tasks.
+Logistic regression works by fitting a logistic (sigmoid) function to the data.
 
 The max_iter parameter in logistic regression (and other iterative algorithms) sets the maximum number of iterations the algorithm will perform during the optimization process.
 It controls how long the algorithm should keep iterating to find the best solution or converge to an optimal set of coefficients. 
